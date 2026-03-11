@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Demolition Lovers",
+  "base_artist": "My Chemical Romance",
+  "createdAt": "2026-03-11T09:31:54.366547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Demolition Lovers",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/01_Demolition_Lovers_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Demolition Lovers",
+      "artist": "My Chemical Romance - Topic",
+      "has_synced": true,
+      "path": "select/02_Demolition_Lovers_My_Chemical_Romance_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Demolition Lovers",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/03_Demolition_Lovers_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Demolition Lovers [My Chemical Romance]",
+      "artist": "Yuugen Vinny",
+      "has_synced": true,
+      "path": "select/04_Demolition_Lovers_[My_Chemical_Romance]_Yuugen_Vinny.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Demolition Lovers",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/05_Demolition_Lovers_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Demolition Lovers",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/06_Demolition_Lovers_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Demolition Lovers (Paused)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/07_Demolition_Lovers_(Paused)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Demolition Lovers",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/pl_01_Demolition_Lovers_My_Chemical_Romance.txt"
+    }
+  ]
+}
